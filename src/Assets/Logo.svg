@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="60">
+  <style>
+    @font-face {
+      font-family: 'Reem Kufi';
+      src: url('https://fonts.gstatic.com/s/reemkufi/v8/2sDcZGJLip7W2J7v7wQPlORpFZ9SkS9VymA1LiYKdg.ttf') format('truetype');
+    }
+  </style>
+  <text x="0" y="50" font-family="Reem Kufi, sans-serif" font-size="60" font-weight="900" fill="#001F3F">TRENDY</text>
+</svg>
